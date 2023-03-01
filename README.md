@@ -1,4 +1,6 @@
 ## scratch-storage
+npm install https://github.com/Knighterrant-xigua/scratch-storage.git
+
 #### Scratch Storage is a library for loading and storing project and asset files for Scratch 3.0
 
 [![CircleCI](https://circleci.com/gh/LLK/scratch-storage/tree/develop.svg?style=shield&circle-token=171bbb6a82280e98afbfcedd8aa90b95b13b5de3)](https://circleci.com/gh/LLK/scratch-storage?branch=develop)

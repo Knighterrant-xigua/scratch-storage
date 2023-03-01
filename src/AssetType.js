@@ -17,6 +17,12 @@ const AssetType = {
         runtimeFormat: DataFormat.PNG,
         immutable: true
     },
+    ImageBitmapJpg: {
+        contentType: 'image/jpg',
+        name: 'ImageBitmapJpg',
+        runtimeFormat: DataFormat.JPG,
+        immutable: true
+    },
     ImageVector: {
         contentType: 'image/svg+xml',
         name: 'ImageVector',
